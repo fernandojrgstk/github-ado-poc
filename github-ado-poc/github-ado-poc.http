@@ -1,0 +1,6 @@
+@github_ado_poc_HostAddress = http://localhost:5157
+
+GET {{github_ado_poc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
